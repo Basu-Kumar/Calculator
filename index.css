@@ -16,6 +16,10 @@
     border-radius: 5px;
 }
 
+#row-a button{
+    padding: 9px
+}
+
 #row-2 button{
     padding:12.8px;
 }
